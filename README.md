@@ -1,18 +1,17 @@
 This project consisted of downloading an Excel file of retail sales data to analyze it through MS Access. I created queries to determine:
 
-•	The average sales amount in the technology sector was the highest, compared to furniture and office supplies,
+•	The average sales amount made by customer segmentation, 
 
-•	The average sales amount in the consumer segment was the lowest, compared to home office and corporate,
+•	First class orders made in 2018,
 
-•	September was the month with the highest count of first-class orders in 2018,
+•	The number of times a customer has ordered products in 2016,
 
-•	 The 3 top customers that have made orders most often in 2016 were Peter Fuller, Sung Pak and Matt Abelman,
+•	The number of times an office supply product has been sold,
 
-•	The office supply products that have been sold the most were in the binders sub-category,
+•	The total sum of sales made by region,
 
-•	The total sales amount in the West region was highest, while South was the lowest,
+•	The total sum of sales made by state.
 
-•	The state with highest sales amount was California (with $446,306.46).
 
 ------------------------
 
