@@ -1,4 +1,4 @@
-This project consisted of downloading an Excel file of retail sales data to analyze it through MS Access. I was able to determine:
+This project consisted of downloading an Excel file of retail sales data to analyze it through MS Access. I created queries to determine:
 
 •	The average sales amount in the technology sector was the highest, compared to furniture and office supplies,
 
